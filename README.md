@@ -187,29 +187,6 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrasiddhaKhadka&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Prasiddha Khadka GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasiddhaKhadka&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages by Prasiddha Khadka" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrasiddhaKhadka&theme=tokyonight&hide_border=true" alt="GitHub contribution streak of Prasiddha Khadka" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasiddhaKhadka&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrasiddhaKhadka/PrasiddhaKhadka/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/PrasiddhaKhadka/PrasiddhaKhadka/output/github-snake.svg" alt="Snake animation eating the GitHub contribution grid" />
-  </picture>
-</p>
-
----
 
 ## 🧭 Engineering Principles
 
